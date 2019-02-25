@@ -1,0 +1,715 @@
+{
+  "Artist": "Lil Wayne",
+  "Song": "Scared of the Dark (feat. XXXTENTACION)",
+  "Preview": null,
+  "Album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+}{
+  "Artist": "Harry Styles",
+  "Song": "Sign of the Times",
+  "Preview": "https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Harry Styles"
+}{
+  "Artist": "Jeremih",
+  "Song": "Impatient",
+  "Preview": null,
+  "Album": "Late Nights: The Album"
+}{
+  "Artist": "Ty Dolla $ign",
+  "Song": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix",
+  "Preview": "https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]"
+}{
+  "Artist": "Jeremih",
+  "Song": "The Light",
+  "Preview": null,
+  "Album": "The Light"
+}{
+  "Artist": "Harry Styles",
+  "Song": "Sign of the Times",
+  "Preview": "https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Sign of the Times"
+}{
+  "Artist": "Quality Control",
+  "Song": "Movin’ Up",
+  "Preview": null,
+  "Album": "Quality Control: Control The Streets Volume 1"
+}{
+  "Artist": "Ty Dolla $ign",
+  "Song": "Love U Better (feat. Lil Wayne & The-Dream)",
+  "Preview": "https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Beach House 3"
+}{
+  "Artist": "Mac Miller",
+  "Song": "Cinderella (feat. Ty Dolla $ign)",
+  "Preview": "https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Divine Feminine"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Pantones",
+  "Song": "The Sign - Ace Of Base Cover",
+  "Preview": "https://p.scdn.co/mp3-preview/b776967c99853086b23b79ae3c83db64a4b2cfda?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "¿Quién Quiere Primavera ?"
+}{
+  "Artist": "MARNET",
+  "Song": "Ace of Base Medley: Beautiful Life / Cruel Summer / The Sign / Lucky Love",
+  "Preview": "https://p.scdn.co/mp3-preview/9b0b05385408e704642001108e3dded01657a29a?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Dag & Nag"
+}{
+  "Artist": "Karaoke Box",
+  "Song": "I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]",
+  "Preview": "https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Karaoke Box: Reggae Greatest Hits"
+}{
+  "Artist": "Karaoke Spotlight",
+  "Song": "The Sign (Ace Of Base Karaoke Tribute)",
+  "Preview": "https://p.scdn.co/mp3-preview/119b42efdf1adafcdf5df3dde4413526276dea79?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Karaoke Spotlight Presents - Ace Of Base"
+}{
+  "Artist": "The Karaoke Machine",
+  "Song": "The Sign (Ace of Base Karaoke Tribute)",
+  "Preview": "https://p.scdn.co/mp3-preview/7234851208fcc0cc74fea4d564de33a3e905bee6?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Karaoke Machine Presents - Ace of Base"
+}{
+  "Artist": "The Karaoke Machine",
+  "Song": "The Sign (Ace of Base Karaoke Tribute)",
+  "Preview": "https://p.scdn.co/mp3-preview/3edf188f505cd3e44d0864baf5d7984c8b25b6a4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Karaoke Machine Presents - Karaoke Hot 100, Vol. 8"
+}{
+  "Artist": "The Karaoke Channel",
+  "Song": "The Sign (In The Style of Ace Of Base) - Karaoke",
+  "Preview": "https://p.scdn.co/mp3-preview/7090ddc04283755a983b1e4cde360663c222dc92?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Female Party - Vol.1- Karaoke"
+}{
+  "Artist": "Ameritz Audio Karaoke",
+  "Song": "The Sign (In The Style Of Ace Of Base)",
+  "Preview": "https://p.scdn.co/mp3-preview/7d778fa88669bb432bed31b871770457d2c69c23?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Karaoke - Pop - 1980's Vol 1"
+}{
+  "Artist": "Charttraxx Karaoke",
+  "Song": "Sign - Karaoke Version In the Style of Ace Of Base",
+  "Preview": "https://p.scdn.co/mp3-preview/68a5fd357c1cbd9beac76d01f178adbc2a89901e?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Artist Karaoke, Vol. 102"
+}{
+  "Artist": "The Karaoke Channel",
+  "Song": "The Sign (Originally Performed by Ace of Base) [Karaoke Version]",
+  "Preview": "https://p.scdn.co/mp3-preview/f4b3590097ad447c3c6e2114e36ab73aef6af0b8?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Karaoke Channel - Sing the Sign Like Ace of Base"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "All That She Wants",
+  "Preview": "https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Greatest Hits"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Don't Turn Around",
+  "Preview": "https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Wheel of Fortune",
+  "Preview": "https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Happy Nation",
+  "Preview": "https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Living in Danger",
+  "Preview": "https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Dancer in a Daydream",
+  "Preview": "https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Young and Proud",
+  "Preview": "https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Waiting for Magic - Total Remix 7\" Version",
+  "Preview": "https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "All That She Wants",
+  "Preview": "https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Greatest Hits"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Don't Turn Around",
+  "Preview": "https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Wheel of Fortune",
+  "Preview": "https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Happy Nation",
+  "Preview": "https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Living in Danger",
+  "Preview": "https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Dancer in a Daydream",
+  "Preview": "https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Young and Proud",
+  "Preview": "https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Waiting for Magic - Total Remix 7\" Version",
+  "Preview": "https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "All That She Wants",
+  "Preview": "https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Greatest Hits"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Don't Turn Around",
+  "Preview": "https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Wheel of Fortune",
+  "Preview": "https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Happy Nation",
+  "Preview": "https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Living in Danger",
+  "Preview": "https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Dancer in a Daydream",
+  "Preview": "https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Young and Proud",
+  "Preview": "https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Waiting for Magic - Total Remix 7\" Version",
+  "Preview": "https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "All That She Wants",
+  "Preview": "https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Greatest Hits"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Don't Turn Around",
+  "Preview": "https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Wheel of Fortune",
+  "Preview": "https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Happy Nation",
+  "Preview": "https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Living in Danger",
+  "Preview": "https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Dancer in a Daydream",
+  "Preview": "https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Young and Proud",
+  "Preview": "https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Waiting for Magic - Total Remix 7\" Version",
+  "Preview": "https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "All That She Wants",
+  "Preview": "https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Greatest Hits"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Don't Turn Around",
+  "Preview": "https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Wheel of Fortune",
+  "Preview": "https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Happy Nation",
+  "Preview": "https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Living in Danger",
+  "Preview": "https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Dancer in a Daydream",
+  "Preview": "https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Young and Proud",
+  "Preview": "https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Waiting for Magic - Total Remix 7\" Version",
+  "Preview": "https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "All That She Wants",
+  "Preview": "https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Greatest Hits"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Don't Turn Around",
+  "Preview": "https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Wheel of Fortune",
+  "Preview": "https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Happy Nation",
+  "Preview": "https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Living in Danger",
+  "Preview": "https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Dancer in a Daydream",
+  "Preview": "https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Young and Proud",
+  "Preview": "https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Ace of Base",
+  "Song": "Waiting for Magic - Total Remix 7\" Version",
+  "Preview": "https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Lil Wayne",
+  "Song": "Scared of the Dark (feat. XXXTENTACION)",
+  "Preview": null,
+  "Album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+}{
+  "Artist": "Harry Styles",
+  "Song": "Sign of the Times",
+  "Preview": "https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Harry Styles"
+}{
+  "Artist": "Jeremih",
+  "Song": "Impatient",
+  "Preview": null,
+  "Album": "Late Nights: The Album"
+}{
+  "Artist": "Ty Dolla $ign",
+  "Song": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix",
+  "Preview": "https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]"
+}{
+  "Artist": "Jeremih",
+  "Song": "The Light",
+  "Preview": null,
+  "Album": "The Light"
+}{
+  "Artist": "Harry Styles",
+  "Song": "Sign of the Times",
+  "Preview": "https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Sign of the Times"
+}{
+  "Artist": "Quality Control",
+  "Song": "Movin’ Up",
+  "Preview": null,
+  "Album": "Quality Control: Control The Streets Volume 1"
+}{
+  "Artist": "Ty Dolla $ign",
+  "Song": "Love U Better (feat. Lil Wayne & The-Dream)",
+  "Preview": "https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Beach House 3"
+}{
+  "Artist": "Mac Miller",
+  "Song": "Cinderella (feat. Ty Dolla $ign)",
+  "Preview": "https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Divine Feminine"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Lil Wayne",
+  "Song": "Scared of the Dark (feat. XXXTENTACION)",
+  "Preview": null,
+  "Album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+}{
+  "Artist": "Harry Styles",
+  "Song": "Sign of the Times",
+  "Preview": "https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Harry Styles"
+}{
+  "Artist": "Jeremih",
+  "Song": "Impatient",
+  "Preview": null,
+  "Album": "Late Nights: The Album"
+}{
+  "Artist": "Ty Dolla $ign",
+  "Song": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix",
+  "Preview": "https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]"
+}{
+  "Artist": "Jeremih",
+  "Song": "The Light",
+  "Preview": null,
+  "Album": "The Light"
+}{
+  "Artist": "Harry Styles",
+  "Song": "Sign of the Times",
+  "Preview": "https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Sign of the Times"
+}{
+  "Artist": "Quality Control",
+  "Song": "Movin’ Up",
+  "Preview": null,
+  "Album": "Quality Control: Control The Streets Volume 1"
+}{
+  "Artist": "Ty Dolla $ign",
+  "Song": "Love U Better (feat. Lil Wayne & The-Dream)",
+  "Preview": "https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Beach House 3"
+}{
+  "Artist": "Mac Miller",
+  "Song": "Cinderella (feat. Ty Dolla $ign)",
+  "Preview": "https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Divine Feminine"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Lil Wayne",
+  "Song": "Scared of the Dark (feat. XXXTENTACION)",
+  "Preview": null,
+  "Album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+}{
+  "Artist": "Harry Styles",
+  "Song": "Sign of the Times",
+  "Preview": "https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Harry Styles"
+}{
+  "Artist": "Jeremih",
+  "Song": "Impatient",
+  "Preview": null,
+  "Album": "Late Nights: The Album"
+}{
+  "Artist": "Ty Dolla $ign",
+  "Song": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix",
+  "Preview": "https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]"
+}{
+  "Artist": "Jeremih",
+  "Song": "The Light",
+  "Preview": null,
+  "Album": "The Light"
+}{
+  "Artist": "Harry Styles",
+  "Song": "Sign of the Times",
+  "Preview": "https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Sign of the Times"
+}{
+  "Artist": "Quality Control",
+  "Song": "Movin’ Up",
+  "Preview": null,
+  "Album": "Quality Control: Control The Streets Volume 1"
+}{
+  "Artist": "Ty Dolla $ign",
+  "Song": "Love U Better (feat. Lil Wayne & The-Dream)",
+  "Preview": "https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Beach House 3"
+}{
+  "Artist": "Mac Miller",
+  "Song": "Cinderella (feat. Ty Dolla $ign)",
+  "Preview": "https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Divine Feminine"
+}{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Preview": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "The Sign (US Album) [Remastered]"
+}{
+  "Artist": "Julia Michaels",
+  "Song": "Jump (with Trippie Redd)",
+  "Preview": null,
+  "Album": "Jump (with Trippie Redd)"
+}{
+  "Artist": "Van Halen",
+  "Song": "Jump - 2015 Remaster",
+  "Preview": "https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "1984 (Remastered)"
+}{
+  "Artist": "Big Sean",
+  "Song": "Jump Out The Window",
+  "Preview": null,
+  "Album": "I Decided."
+}{
+  "Artist": "House Of Pain",
+  "Song": "Jump Around",
+  "Preview": "https://p.scdn.co/mp3-preview/8c0563c907c9415db2c1f73220340325d27dd84d?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "House of Pain (Fine Malt Lyrics)"
+}{
+  "Artist": "Kris Kross",
+  "Song": "Jump",
+  "Preview": "https://p.scdn.co/mp3-preview/048216266ed154b08ed225829b61aaaaff8e5b93?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Totally Krossed Out"
+}{
+  "Artist": "Harry Belafonte",
+  "Song": "Jump in the Line",
+  "Preview": "https://p.scdn.co/mp3-preview/6b4fa0e8064462dc9efa03f1c982b67c660872b3?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Jump Up Calypso"
+}{
+  "Artist": "Mac Miller",
+  "Song": "Jump",
+  "Preview": "https://p.scdn.co/mp3-preview/23cd0d70b02b52e6dc7d1b31cc74f5a6d096e3a2?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "GO:OD AM"
+}{
+  "Artist": "Brad Kane",
+  "Song": "One Jump Ahead - From \"Aladdin\"/Soundtrack Version",
+  "Preview": null,
+  "Album": "Aladdin Special Edition"
+}{
+  "Artist": "Lupe Fiasco",
+  "Song": "Jump (feat. Gizzle)",
+  "Preview": "https://p.scdn.co/mp3-preview/884269ec66f33933a5e5c16fa97e21cfefdf5981?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "DROGAS Light"
+}{
+  "Artist": "Meek Mill",
+  "Song": "Jump Out the Face (feat. Future)",
+  "Preview": "https://p.scdn.co/mp3-preview/c267b461f4aa6115416a9e3a5f1f62d7550aa61a?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Dreams Worth More Than Money"
+}{
+  "Artist": "Julia Michaels",
+  "Song": "Jump (with Trippie Redd)",
+  "Preview": null,
+  "Album": "Jump (with Trippie Redd)"
+}{
+  "Artist": "Van Halen",
+  "Song": "Jump - 2015 Remaster",
+  "Preview": "https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "1984 (Remastered)"
+}{
+  "Artist": "Big Sean",
+  "Song": "Jump Out The Window",
+  "Preview": null,
+  "Album": "I Decided."
+}{
+  "Artist": "House Of Pain",
+  "Song": "Jump Around",
+  "Preview": "https://p.scdn.co/mp3-preview/8c0563c907c9415db2c1f73220340325d27dd84d?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "House of Pain (Fine Malt Lyrics)"
+}{
+  "Artist": "Kris Kross",
+  "Song": "Jump",
+  "Preview": "https://p.scdn.co/mp3-preview/048216266ed154b08ed225829b61aaaaff8e5b93?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Totally Krossed Out"
+}{
+  "Artist": "Harry Belafonte",
+  "Song": "Jump in the Line",
+  "Preview": "https://p.scdn.co/mp3-preview/6b4fa0e8064462dc9efa03f1c982b67c660872b3?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Jump Up Calypso"
+}{
+  "Artist": "Mac Miller",
+  "Song": "Jump",
+  "Preview": "https://p.scdn.co/mp3-preview/23cd0d70b02b52e6dc7d1b31cc74f5a6d096e3a2?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "GO:OD AM"
+}{
+  "Artist": "Brad Kane",
+  "Song": "One Jump Ahead - From \"Aladdin\"/Soundtrack Version",
+  "Preview": null,
+  "Album": "Aladdin Special Edition"
+}{
+  "Artist": "Lupe Fiasco",
+  "Song": "Jump (feat. Gizzle)",
+  "Preview": "https://p.scdn.co/mp3-preview/884269ec66f33933a5e5c16fa97e21cfefdf5981?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "DROGAS Light"
+}{
+  "Artist": "Meek Mill",
+  "Song": "Jump Out the Face (feat. Future)",
+  "Preview": "https://p.scdn.co/mp3-preview/c267b461f4aa6115416a9e3a5f1f62d7550aa61a?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "Dreams Worth More Than Money"
+}{
+  "Artist": "Julia Michaels",
+  "Song": "Jump (with Trippie Redd)",
+  "Preview": null,
+  "Album": "Jump (with Trippie Redd)"
+}{
+  "Artist": "Van Halen",
+  "Song": "Jump - 2015 Remaster",
+  "Preview": "https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "1984 (Remastered)"
+}{
+  "Artist": "Julia Michaels",
+  "Song": "Jump (with Trippie Redd)",
+  "Preview": null,
+  "Album": "Jump (with Trippie Redd)"
+}{
+  "Artist": "Van Halen",
+  "Song": "Jump - 2015 Remaster",
+  "Preview": "https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "1984 (Remastered)"
+}{
+  "Artist": "Julia Michaels",
+  "Song": "Jump (with Trippie Redd)",
+  "Preview": null,
+  "Album": "Jump (with Trippie Redd)"
+}{
+  "Artist": "Van Halen",
+  "Song": "Jump - 2015 Remaster",
+  "Preview": "https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "1984 (Remastered)"
+}{
+  "Artist": "Julia Michaels",
+  "Song": "Jump (with Trippie Redd)",
+  "Preview": null,
+  "Album": "Jump (with Trippie Redd)"
+}{
+  "Artist": "Van Halen",
+  "Song": "Jump - 2015 Remaster",
+  "Preview": "https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "1984 (Remastered)"
+}{
+  "Artist": "Julia Michaels",
+  "Song": "Jump (with Trippie Redd)",
+  "Preview": null,
+  "Album": "Jump (with Trippie Redd)"
+}{
+  "Artist": "Van Halen",
+  "Song": "Jump - 2015 Remaster",
+  "Preview": "https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=22ec50e4edc54b079fb89f4e75b5acc2",
+  "Album": "1984 (Remastered)"
+}{
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "Country of Production": "Belgium, Germany, Canada, France, USA, UK",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+}{
+  "Title": "Ghostbusters",
+  "Year": "1984",
+  "Country of Production": "USA",
+  "Language": "English",
+  "Plot": "Three former parapsychology professors set up shop as a unique ghost removal service.",
+  "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis"
+}
